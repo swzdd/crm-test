@@ -20,5 +20,7 @@ public class Calculation {
         System.out.println(c+e);
         System.out.println(a+c);
         System.out.println(d+e);
+        
+        int f=6;
     }
 }
