@@ -18,5 +18,6 @@ public class Calculation {
         
         int e=5;
         System.out.println(c+e);
+        System.out.println(d+e);
     }
 }
