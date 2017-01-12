@@ -26,5 +26,6 @@ public class Calculation {
         System.out.println(f+e);
         System.out.println(f+g);
         System.out.println(a+f);
+        System.out.println(f+g);
     }
 }
