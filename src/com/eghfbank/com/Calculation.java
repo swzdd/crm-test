@@ -15,5 +15,8 @@ public class Calculation {
         System.out.println(a+b+c);
         System.out.println(b+c);
         System.out.println(b+c);
+        
+        int e=5;
+        System.out.println(c+e);
     }
 }
