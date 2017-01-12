@@ -8,6 +8,9 @@ public class Calculation {
         System.out.println(a+b);
         System.out.println(a+b);
         
+        int d=4;
+        System.out.println(a+b+d);
+        
         int c=3;
         System.out.println(a+b+c);
     }
