@@ -23,6 +23,7 @@ public class Calculation {
         
         int f=6;
         int g=7;
+        system.out.println(f+e);
         System.out.println(f+g);
     }
 }
