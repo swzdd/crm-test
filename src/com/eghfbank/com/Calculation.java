@@ -13,5 +13,6 @@ public class Calculation {
         
         int c=3;
         System.out.println(a+b+c);
+        System.out.println(b+c);
     }
 }
