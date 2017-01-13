@@ -31,5 +31,6 @@ public class Calculation {
         System.out.println(f+c);
         System.out.println(a+e+c);
         System.out.println(d+f);
+        System.out.println(d+f+2);
     }
 }
